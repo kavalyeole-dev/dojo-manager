@@ -59,6 +59,3 @@ All data (students, attendance, payments) is stored **locally in the browser** u
 - Multi-device sync via a lightweight backend
 - Automated SMS/email payment confirmations to parents
 
-## License
-
-Add your preferred license here (e.g. MIT) before publishing publicly.
